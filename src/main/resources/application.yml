@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: admin-front
+  profiles:
+    active: secret
